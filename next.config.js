@@ -12,6 +12,6 @@ module.exports = {
     return config;
   },
   images: {
-    domains: ["localhost", "127.0.0.1"],
+    domains: ["127.0.0.1"],
   },
 };

@@ -17,5 +17,5 @@ export const getIsSupportWebp = (context: AppContext) => {
 };
 
 export const cs = (context: AppContext) => {
-    cs
+    console.log(123);
 };

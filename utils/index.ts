@@ -17,9 +17,8 @@ export const getIsSupportWebp = (context: AppContext) => {
 };
 
 export const cs = (context: AppContext) => {
-    cssss
+    console.log(123);
 };
-
 
 export const css = (context: AppContext) => {
     cssss
